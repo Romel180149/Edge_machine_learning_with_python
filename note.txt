@@ -1,0 +1,8 @@
+normalization                                   data preparation     
+                                                    train-test-split                                   train 
+                                                                                                         fit                           predid                                                                                                                                       predict()          
+standard scaler 
+transform
+fit_transform=>train
+transfrom =>text 
+
